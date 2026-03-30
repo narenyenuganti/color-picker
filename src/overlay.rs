@@ -1,0 +1,1 @@
+// macOS cursor overlay window
