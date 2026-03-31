@@ -4,7 +4,6 @@ use ratatui::text::{Line, Span};
 use ratatui::widgets::{Block, Borders, List, ListItem, ListState, Paragraph};
 use ratatui::Frame;
 
-use crate::color::Color;
 use crate::tui::app::App;
 
 pub fn render(f: &mut Frame, app: &App) {
